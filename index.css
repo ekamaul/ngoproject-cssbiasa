@@ -14,3 +14,12 @@
     padding: 10px;
 
 }
+
+.gridcontainer1{
+    display: grid; 
+    margin: auto; 
+    width: 95%; 
+    height:95%; 
+    grid-template-columns: auto auto; 
+    color: blue;
+}
